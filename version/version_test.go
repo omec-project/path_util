@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/path_util/version"
+	"github.com/omec-project/path_util/version"
 )
 
 func TestVersion(t *testing.T) {

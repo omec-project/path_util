@@ -1,4 +1,4 @@
-module github.com/free5gc/path_util
+module github.com/omec-project/path_util
 
 go 1.14
 

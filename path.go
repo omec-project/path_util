@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/free5gc/path_util/logger"
+	"github.com/omec-project/path_util/logger"
 )
 
 // Free5gcPath ...
@@ -16,7 +16,7 @@ import (
  * This package is used to locate the root directory of gofree5gc project
  * Compatible with Windows and Linux
  *
- * Please import "github.com/free5gc/path_util"
+ * Please import "github.com/omec-project/path_util"
  *
  * Return value:
  * A string value of the relative path between the working directory and the root directory of the gofree5gc project
