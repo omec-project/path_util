@@ -3,7 +3,7 @@ package path_util
 import (
 	"testing"
 
-	"github.com/free5gc/path_util/logger"
+	"github.com/omec-project/path_util/logger"
 )
 
 func TestFree5gcPath(t *testing.T) {
